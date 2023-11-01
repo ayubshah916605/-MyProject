@@ -1,0 +1,30 @@
+/* .name {
+    color: white;
+    background-color: grey;
+    height: 100px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.button{
+    height: 35px;
+    width: 130px;
+    font-size: 15px;
+    outline: none;
+    border: 1px solid green;
+}
+
+.button:hover{
+    background-color: aqua;
+    color: white;
+} */
+
+#bulbs{
+    display: flex;
+    width: 150px;
+    height: 150px;
+    margin-left: 100px;
+    
+}
